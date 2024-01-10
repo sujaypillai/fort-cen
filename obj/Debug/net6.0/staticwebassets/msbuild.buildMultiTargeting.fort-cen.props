@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/fort-cen.props" />
+</Project>
